@@ -7,6 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-bilalkhan31c7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilalkhan31c7@gmail.com)](mailto:bilalkhan31c7@gmail.com) 
 
 <!-- - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/) -->
+
+
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
@@ -17,9 +19,9 @@
 - Langchain 🙂
 - LLMS 🧐
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
+    </a> -->
      -->
 🛠**Tech Stack**
 [![Bilal Khan GitHub stats](https://github-readme-stats.vercel.app/api?username=Psycho-Poodle)](https://github.com/anuraghazra/github-readme-stats)
