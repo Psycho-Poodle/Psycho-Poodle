@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-bilalkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bilal-khan0140/)](https://www.linkedin.com/in/bilal-khan0140/)
 [![Gmail Badge](https://img.shields.io/badge/-bilalkhan31c7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bilalkhan31c7@gmail.com)](mailto:bilalkhan31c7@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+<!-- - 🎯 Portfolio website: [Portfolio]() -->
 
 
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
